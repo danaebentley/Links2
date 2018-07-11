@@ -1,1 +1,4 @@
-MORE TEXT!
+<<<<<<< HEAD
+=======
+TEXT!
+>>>>>>> coursera_git
