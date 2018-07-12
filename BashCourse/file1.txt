@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-=======
-TEXT!
->>>>>>> coursera_git
